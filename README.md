@@ -17,7 +17,7 @@ React • Vite • JavaScript • Supabase
 
 ## Live Demo
 
-[SkillForge](YOUR_VERCEL_URL)
+[SkillForge]((https://skillforge-immpappu.vercel.app/dashboard))
 
 ## Developer
 
