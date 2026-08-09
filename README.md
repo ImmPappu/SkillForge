@@ -1,16 +1,24 @@
-# React + Vite
+# SkillForge 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personalized student skill development platform to help students track skills, follow learning roadmaps, manage projects, and monitor their progress.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🎯 Learning Roadmap
+- 🧠 Skill Tracking
+- 📝 Assessments
+- 🚀 Project Management
+- 👤 Student Profile
+- 📊 Progress Dashboard
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+React • Vite • JavaScript • Supabase
 
-## Expanding the ESLint configuration
+## Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[SkillForge](YOUR_VERCEL_URL)
+
+## Developer
+
+**Pappu Kumar**
