@@ -22,7 +22,7 @@ Gemini AI integration will be added to provide personalized roadmaps, AI-generat
 
 ## Live Demo
 
-👉 live - https://skillforge-immpappu.vercel.app/dashboard
+👉[SkillForge](https://skillforge-immpappu.vercel.app)
 
 ## Developer
 
